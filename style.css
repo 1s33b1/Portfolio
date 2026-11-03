@@ -6,4 +6,6 @@ h2{
 #icon{
     width: 100px;
     height:auto;
+    display: flex;
+    justify-content: right;
 }
