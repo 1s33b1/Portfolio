@@ -11,5 +11,15 @@ h2{
     padding-right: 300px;
 }
 
+.mySkill p{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 12px 0;
+}
+/* .mySkill i{
+} */
+
 /* .TechIcon{
 } */
