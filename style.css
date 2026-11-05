@@ -12,14 +12,13 @@ h2{
 }
 
 .mySkill p{
-    font-size: 18px;
+    font-size: 24px;
     display: flex;
     align-items: center;
     gap: 10px;
     margin: 12px 0;
 }
-/* .mySkill i{
-} */
 
-/* .TechIcon{
-} */
+.MySNS.snsbutton{
+    background-color: blue;
+}
